@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<head>
+   <title>radio button</title>
+</head>
+<body>
+<h1 style="color:red">radio button</h1>
+<form method="GET">
+<p>
+    
+     <lable>User name:</lable><br>
+    <input type="text" name="username">
+</p>
+<p>
+    choose any one icecream:<br>
+    <input type="radio" name="ice cream" id="chocolate" value="chocolate"><label for="chocolate">chocolate</label><br>
+    <input type="radio" name="ice cream" id="vanilla" value="vanilla"><label for="vanilla">vanilla</label><br>
+    <input type="radio" name="ice cream" id="butter" value="butter"><label for="butter">butter</label><br>
+    
+</p>
+</body>
+</html>
